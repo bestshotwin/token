@@ -1,2 +1,3 @@
-# token
-SHOT / WIN token
+# Tokens
+
+SHOT and WIN token contract
